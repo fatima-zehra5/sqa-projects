@@ -32,6 +32,14 @@ end-to-end manual testing workflows.
 - Regression test suite
 - Smoke test suite
 - Sanity test suite
+- 
+- ## Testing Stats
+- 36 Test Cases executed
+- 11 Defects reported with full documentation  
+- 3 Browsers tested: Chrome · Firefox · Edge
+- Testing Types: Functional · Non-Functional · 
+  Cross-browser · Smoke · Exploratory
+- Tools: Jira · Excel · Bugzilla
 
 ### ⚙️ Automation (Intro)
 - Basic Selenium scripts using C#
